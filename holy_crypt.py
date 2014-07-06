@@ -13,7 +13,7 @@ def random_key_mask(size=25, chars=string.ascii_letters + string.digits):
 def true_holy_random():
     holy_random = random.SystemRandom()  # Uses /dev/urandom or Windows CryptGenRandom
     holy_random_numbers = pow(2, int(holy_random.random() * 1024))  # pow right in the demons
-    return str(holy_random_numbers)
+    return holy_random_numbers
 
 # Gets a bible verse from the King James Bible
 def get_verse():
@@ -50,7 +50,7 @@ def decrypt(key, encryped):
 def create_private_key():
     holy_line = get_verse()
 
-    holy_line = holy_line + random_key_mask() + true_holy_random()  #With our powers combined
+    holy_line = holy_line + random_key_mask() + str(true_holy_random())  #With our powers combined
 
     holy_shuffle = list(holy_line)  # put verse into a list
 
