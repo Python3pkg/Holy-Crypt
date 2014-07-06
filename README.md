@@ -12,10 +12,9 @@ Here is an example output
 
 
 ```python
-
 Message: 'I must protect the holy land'
-Key: 'e|ctnaatltaaeiaaebiig,dtalthcqreisaynscctriyI,e~toc|nhiaurotehhnleoycetenhlt|~~rliaehlnwatlnsmanthnaiatmneuergyl\n,hnilyuobsIhlu|ddqeailela|iodneeeierdgatyoeharlutIforbaehgiycsn|hetit~sttrssiadfde|\n.tiicu'
-Encrypted: '+\x19Mf^R\x81a[`RCEZ\x81RJD\x06NS\x15Z\x11JJ_I'
+Key: 'g945ai6dhd0ashc413i09o|n5Fhfso7nP74n1h2h4c.h|to6sn2g3don3la3ogea.hcter0ha4|w0tn3o6.srd|hnyywo9it9sh3r49|imdse:259s46Fa|s\n0iy|F544h8dnF2ri4o4h4r8nw92\nPh4rat5hrc26ey4h48a1t6hwlae:7lg24rawh04r4g995lhsn5i0hy~3yoln4rlwweins51|3e'
+Encrypted: "-Y\x1e'QZVQWP!CSY\x00%\x16\x15\x06\x15%Xr\x0b\x1e$SG"
 Decrypted: 'I must protect the holy land'
 ```
 
