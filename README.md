@@ -3,6 +3,17 @@ Holy-Crypt
 
 A holy encryption method to protect your strings and assets from the eyes of the blasphemes government and their demon pawns 
 
+##Install
+
+to install this you can run
+
+```python
+pip install holy_crypt
+```
+Or simply download the master branch and include it in your project
+
+Make sure you place the holykeys.txt inside your projects root directory. I'll move this to a string array soon.
+
 ##How does it work?
 Leave RSA Behind
 
