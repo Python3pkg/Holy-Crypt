@@ -14,10 +14,9 @@ Here is an example output
 ```python
 
 Message: 'I must protect America from the demons at the NSA'
-Key: 'klddmftkdso\neaaaulm,ykeoaf\nmose2ouamdarayvaFl'
-Encrypted: '1\tNV]W\x11XS_`oER\x81\x1f_N\\\x12YI\x02RPRw\n`XGRPWKYOQ\x0f?j\x13R+N\x0874"' #holy encryption
+Key: 'einattynuynsemJ|mehEee,shaihydae\nirnr|oor~~ntSodnsfty\ntn|ftnmhardvtnyyp|pyIaettaielSepeunyerlvEr~Epusve:uoetyro7sduosghoottepttoem7uydtvtoyerhyehtdtm|tnrhy5lps2ahni,onituyygSrrponau~isefd5sysietrIednhry'
+Encrypted: '+\x06XSde\x16[de_UE^j:WGW+ECLVWMS\x05jIC\x02nK\\Z]l\x0cMc\x1boSVs:4,'
 Decrypted: 'I must protect America from the demons at the NSA'
-
 ```
 
 An example of usage is included within the holy_crypt.py it is well documented and easy to understand
