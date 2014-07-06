@@ -13,10 +13,10 @@ Here is an example output
 
 ```python
 
-Message: 'I must protect America from the demons at the NSA'
-Key: 'einattynuynsemJ|mehEee,shaihydae\nirnr|oor~~ntSodnsfty\ntn|ftnmhardvtnyyp|pyIaettaielSepeunyerlvEr~Epusve:uoetyro7sduosghoottepttoem7uydtvtoyerhyehtdtm|tnrhy5lps2ahni,onituyygSrrponau~isefd5sysietrIednhry'
-Encrypted: '+\x06XSde\x16[de_UE^j:WGW+ECLVWMS\x05jIC\x02nK\\Z]l\x0cMc\x1boSVs:4,'
-Decrypted: 'I must protect America from the demons at the NSA'
+Message: 'I must protect the holy land'
+Key: 'e|ctnaatltaaeiaaebiig,dtalthcqreisaynscctriyI,e~toc|nhiaurotehhnleoycetenhlt|~~rliaehlnwatlnsmanthnaiatmneuergyl\n,hnilyuobsIhlu|ddqeailela|iodneeeierdgatyoeharlutIforbaehgiycsn|hetit~sttrssiadfde|\n.tiicu'
+Encrypted: '+\x19Mf^R\x81a[`RCEZ\x81RJD\x06NS\x15Z\x11JJ_I'
+Decrypted: 'I must protect the holy land'
 ```
 
 An example of usage is included within the holy_crypt.py it is well documented and easy to understand
