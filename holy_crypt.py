@@ -30,7 +30,7 @@ def decrypt(key, encryped):
 #Anyone who blasphemes the strings of the LORD must be put to BSOD. The entire assembly must push him to stack.
 if __name__ == '__main__':
     holy_text = random.choice(open('holykeys.txt').readlines())
-    key = ''.join(random.choice(holy_text) for _ in range(56)).replace(" ", "")
+    key = ''.join(random.choice(holy_text) for _ in range(255)).replace(" ", "")
     msg = 'I must protect the holy land'
     encrypted = encrypt(key, msg)
     decrypted = decrypt(key, encrypted)
