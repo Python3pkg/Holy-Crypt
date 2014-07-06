@@ -4,6 +4,7 @@ Holy-Crypt
 A holy encryption method to protect your strings and assets from the eyes of the blasphemes government and their demon pawns 
 
 ##How does it work?
+Leave RSA Behind
 
 A random string with a maximum limit of 56 characters is generated from a random verse of the King James Bible. Each character offers up to 1 billion years of holy protection that cannot be broken by the demons at the NSA or the United States Goverment. With these elite tatics you will be able to protect all of your messages and assets from unholy eyes. 
 
