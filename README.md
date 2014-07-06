@@ -14,7 +14,7 @@ Here is an example output
 
 Message: 'I must protect America from the demons at the NSA'
 Key: 'klddmftkdso\neaaaulm,ykeoaf\nmose2ouamdarayvaFl'
-Encrypted: '1\tNV]W\x11XS_`oER\x81\x1f_N\\\x12YI\x02RPRw\n`XGRPWKYOQ\x0f?j\x13R+N\x0874"'
+Encrypted: '1\tNV]W\x11XS_`oER\x81\x1f_N\\\x12YI\x02RPRw\n`XGRPWKYOQ\x0f?j\x13R+N\x0874"' #holy encryption
 Decrypted: 'I must protect America from the demons at the NSA'
 
 ```
