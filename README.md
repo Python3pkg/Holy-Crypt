@@ -12,10 +12,10 @@ Here is an example output
 
 
 ```python
-Message: 'I must protect the holy land'
-Key: 'g945ai6dhd0ashc413i09o|n5Fhfso7nP74n1h2h4c.h|to6sn2g3don3la3ogea.hcter0ha4|w0tn3o6.srd|hnyywo9it9sh3r49|imdse:259s46Fa|s\n0iy|F544h8dnF2ri4o4h4r8nw92\nPh4rat5hrc26ey4h48a1t6hwlae:7lg24rawh04r4g995lhsn5i0hy~3yoln4rlwweins51|3e'
-Encrypted: "-Y\x1e'QZVQWP!CSY\x00%\x16\x15\x06\x15%Xr\x0b\x1e$SG"
-Decrypted: 'I must protect the holy land'
+Message: "I'm trying to fight the NSA, work with me on it"
+Key: "|s1eabftt,4l7usb6D4o778DsrfU6mt1io1nf41nJtitf7e8'tRbE94dy6ro3b3r416alewruh0d19c1o~8dH,1~e565f76hk1e98y917cryi1i8Lte5t78bri4r076rnr18rte1an3kyc1n2eaeea617r68C47G2h5etrd4tryr7t1b7a5\nsqr0oz7htCkc112o6ten71rr6ht1EeSboy,Ld6rtC5t0Dho"
+Encrypted: 'B\x17\x1b\x02RQ\\Z_\x10T]#\x12VH\x1a)%\x0c(\x1c\x1ad>B$\x81Va` Q\x0c%TW\x19QX,\x11U_\x03\x1dV'
+Decrypted: "I'm trying to fight the NSA, work with me on it"
 ```
 
 An example of usage is included within the holy_crypt.py it is well documented and easy to understand
