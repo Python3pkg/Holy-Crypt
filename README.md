@@ -24,8 +24,8 @@ Here is an example output
 
 ```python
 Message: "I'm trying to fight the NSA, work with me on it"
-Key: "|s1eabftt,4l7usb6D4o778DsrfU6mt1io1nf41nJtitf7e8'tRbE94dy6ro3b3r416alewruh0d19c1o~8dH,1~e565f76hk1e98y917cryi1i8Lte5t78bri4r076rnr18rte1an3kyc1n2eaeea617r68C47G2h5etrd4tryr7t1b7a5\nsqr0oz7htCkc112o6ten71rr6ht1EeSboy,Ld6rtC5t0Dho"
-Encrypted: 'B\x17\x1b\x02RQ\\Z_\x10T]#\x12VH\x1a)%\x0c(\x1c\x1ad>B$\x81Va` Q\x0c%TW\x19QX,\x11U_\x03\x1dV'
+Key: 'Git8f7YYQ8roroOtmkhtvap1iRuah.Jhsswti5iOAhhuhYsR~ubYJaSOS5stk8~asav\nrAOe4sW1svGWeetfTeG8neQ|ST7pO~Xoasnhi4Gaa|ua1io..DfttiWu5QsEs|setRw0EetarAiltalR4Ye1h7pndQ|ioGav|EsraGJsnsERihash51e1Pon8|ip|l5Pdh~TEwtiDwt.|w1D|ih|ra8wGRnXtanmJOsoo1a'
+Encrypted: '\r\r^XW&O?<\x1c\x0f`^\x0c2ZQPY\x11gFRQ4"3\n\x05"6W[\x10kZZ\x1a\x069#\x05T`\x05?d'
 Decrypted: "I'm trying to fight the NSA, work with me on it"
 ```
 
