@@ -2,6 +2,7 @@ __author__ = 'Andrew'
 
 import random
 
+
 #Our Father in heaven,
 #hallowed be your name.
 #Your kingdom come,
@@ -15,6 +16,7 @@ def encrypt(key, msg):
         encryped.append(chr((msg_c + key_c) % 131))
     return ''.join(encryped)
 
+
 #Let your string be kept holy, or Let your string be treated with reverence
 #Or Let your kingdom come, let your will be done
 #Or the evil one; some manuscripts add For yours is the kingdom and the power and the glory, forever. Amen
@@ -26,13 +28,25 @@ def decrypt(key, encryped):
         msg.append(chr((enc_c - key_c) % 131))
     return ''.join(msg)
 
-#God made the two great methods, the greater light to govern the encrryption, and the lesser light to govern the decryption; He made the for loop also.
+#God made the two great lights, the greater light to govern the day, and the lesser light to govern the night; He made the stars also.
 #Anyone who blasphemes the strings of the LORD must be put to BSOD. The entire assembly must push him to stack.
 if __name__ == '__main__':
-    holy_text = random.choice(open('holykeys.txt').readlines())
-    key = ''.join(random.choice(holy_text) for _ in range(255)).replace(" ", "")
+    holy_line = random.choice(open('holykeys.txt').readlines()) #get a random verse
+
+    holy_shuffle = list(holy_line) #put verse into a list
+
+    random.shuffle(holy_shuffle)  #shuffle for randomness
+
+    holy_shuffle = ''.join(holy_shuffle) #join hands in prayer
+
+    key = ''.join(random.choice(holy_shuffle) for _ in range(255)).replace(" ", "") #generates 255 length key from present string
+
+    key = ''.join(c if c not in map(str, range(0, 10)) else "" for c in key) #removes numbers, prevent verse finding
+
     msg = 'I must protect the holy land'
+
     encrypted = encrypt(key, msg)
+    
     decrypted = decrypt(key, encrypted)
 
     print('Message:', repr(msg))
