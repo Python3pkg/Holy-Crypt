@@ -26,7 +26,7 @@ def decrypt(key, encryped):
         msg.append(chr((enc_c - key_c) % 131))
     return ''.join(msg)
 
-#God made the two great lights, the greater light to govern the day, and the lesser light to govern the night; He made the stars also.
+#God made the two great methods, the greater light to govern the encrryption, and the lesser light to govern the decryption; He made the for loop also.
 #Anyone who blasphemes the strings of the LORD must be put to BSOD. The entire assembly must push him to stack.
 if __name__ == '__main__':
     holy_text = random.choice(open('holykeys.txt').readlines())
