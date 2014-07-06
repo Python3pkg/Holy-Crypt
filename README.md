@@ -32,6 +32,10 @@ If you have any questions feel free to ask me
 * **Blog:** [andrew.codeusa.net](http://andrew.codeusa.net)
 * **Youtube:** [Youtube Channel](http://www.youtube.com/codeusasoftware)
 
+##Why Did I Make This?
+This was made in response to Paypals ludicrious claim that you need "goverment approval" to encrpyt your own stuff, that and the fact that even just looking up anything about encrpytion or Linux can have you end up on a watch list. What a time to be alive. 
 
 ##Buy Me a Beer
 [If you like it that is](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TWHNPSC7HRNR2).
+
+
