@@ -11,7 +11,7 @@ if __name__ == '__main__':
 
     decrypted = decrypt(key, encrypted)
 
-    print('Message:', repr(msg))
-    print('Key:', repr(key))
-    print('Encrypted:', repr(encrypted))
-    print('Decrypted:', repr(decrypted))
+    print(('Message:', repr(msg)))
+    print(('Key:', repr(key)))
+    print(('Encrypted:', repr(encrypted)))
+    print(('Decrypted:', repr(decrypted)))
